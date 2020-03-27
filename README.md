@@ -14,7 +14,7 @@
 # Formati ed estensioni di file Open XML
 > A partire da Microsoft Office System 2007, Microsoft Office usa formati di file basati sull'XML, come docx, xlsx e pptx. Questi formati > e le estensioni di file si applicano a Microsoft Word, Microsoft Excel e Microsoft PowerPoint.
 
-OpenXMLProject - (http://lukii.altervista.org)
+OpenXMLProject - http://lukii.altervista.org
 
 
 
