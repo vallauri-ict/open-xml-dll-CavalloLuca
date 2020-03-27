@@ -1,6 +1,5 @@
 # **`CAVALLO LUCA`:horse:**
-## ***open-xml-dll-CavalloLuca created by GitHub Classroom***
-
+## *open-xml-dll-CavalloLuca created by GitHub Classroom*
 
 # Informazioni sui vantaggi dei formati Open XML
 > Sono numerosi i vantaggi associati ai formati Open XML, non solo per gli sviluppatori e per le solutions da essi create, ma anche per
